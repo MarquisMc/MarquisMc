@@ -14,9 +14,9 @@
 
 [<img align="left" alt="Browser" width="26px" src="./img/browser-website-svgrepo-com.svg" />](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/MarMar0725#gh-light-mode-only)
+[<img align="left" alt="Linkedin" width="26px" src="./img/linkedin-svgrepo-com.svg" />](https://twitter.com/MarMar0725#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/marquis-mccann-8297a6174/#gh-light-mode-only)
+[<img align="left" alt="Twitter" width="26px" src="./img/twitter-svgrepo-com.svg"](https://www.linkedin.com/in/marquis-mccann-8297a6174/#gh-light-mode-only)
 
 ### Languages and Tools:
 
