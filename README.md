@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/browser-website-svgrepo-com.svg#20x20)](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
+[<img align="left" alt="Browser" width="26px" src="./img/browser-website-svgrepo-com.svg" />](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/MarMar0725#gh-light-mode-only)
 &nbsp;&nbsp;
