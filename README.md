@@ -11,10 +11,8 @@
 - 📫 How to reach me reach [reachmarquismccann@gmail.com][Email]!
 
 ### Connect with me:
-<!--->
+
 [![website](./img/browser-website-svgrepo-com.svg)](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
-<!--->
-img[scr="./img/browser-website-svgrepo-com.svg"](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
 {
     width: 26px;
     height: 26px;
