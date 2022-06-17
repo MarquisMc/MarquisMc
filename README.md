@@ -11,12 +11,18 @@
 - 📫 How to reach me reach [reachmarquismccann@gmail.com][Email]!
 
 ### Connect with me:
-
-[<img align="left" alt="website" width="26px" scr="./img/browser-website-svgrepo-com.svg" />](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
+<!--->
+[![website](./img/browser-website-svgrepo-com.svg)](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
+<!--->
+img[scr="./img/browser-website-svgrepo-com.svg"](https://marquismccann56.wixsite.com/website#gh-light-mode-only)
+{
+    width: 26px;
+    height: 26px;
+}
 &nbsp;&nbsp;
-[<img align="left" alt="twitter" width="26px" scr="./img/twitter-svgrepo-com.svg" />](https://twitter.com/MarMar0725#gh-light-mode-only)
+[![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/MarMar0725#gh-light-mode-only)
 &nbsp;&nbsp;
-[<img align="left" alt="linkedin" width="26px" scr="./img/linkedin-svgrepo-com.svg" />](https://www.linkedin.com/in/marquis-mccann-8297a6174/#gh-light-mode-only)
+[![website](./img/linkedin-svgrepo-com.svg)](https://www.linkedin.com/in/marquis-mccann-8297a6174/#gh-light-mode-only)
 
 ### Languages and Tools:
 
