@@ -2,7 +2,6 @@
 
 ## I'm a Gamer, Game Designer, Developer, and Learner!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
 - 👀 I’m interested in Crypto and Web3 Development
 - 🌱 I’m currently learning game tools for fast prototyping
 - 👯 I’m looking to collaborate with other motavated game developers
