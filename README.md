@@ -1,11 +1,15 @@
 # Hi there, I'm Marquis McCann 👋 
 
 ## I'm a Gamer, Game Designer, Developer, and Learner!!
+- I have been programming consistently for about 4 years now 
+- My main programming languange is C#
+- Secondary languanges are Flutter, Drupal, and Java Script
 
-- 👀 I’m interested in Crypto and Web3 Development
+- 👀 I’m interested in Crypto, Web3 Development, and Game Design
 - 🌱 I’m currently learning game tools for fast prototyping
 - 👯 I’m looking to collaborate with other motavated game developers
 - 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Contribute to github every day
 - ⚡ Fun fact: I love to cook when I have the time
 - 📫 How to reach me reach [reachmarquismccann@gmail.com][Email]!
 
